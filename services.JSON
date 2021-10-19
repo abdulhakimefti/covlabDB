@@ -9,7 +9,7 @@
       "id": 2,
       "name": "ICU",
       "displayImg": "https://i.ibb.co/h1j1zvb/icu.jpg",
-      "description": "Intensive care refers to the specialised treatment given to patients who are acutely unwell and require critical medical care. An intensive care unit (ICU) provides the critical care and life support for acutely ill and injured patients."
+      "description": "Intensive care refers to the specialised treatment given to patients who are acutely unwell and require critical medical care. An intensive care unit (ICU) provides the critical care and life support for acutely ill and injured patients.ntensive care refers to the specialised treatment given to patients"
     },
     {
       "id": 3,
@@ -33,6 +33,7 @@
       "id": 6,
       "name": "Pharmacy and Medicine",
       "displayImg": "https://i.ibb.co/61KmT4Y/Medicines-background-with-colored-pills-tablets-and-capsules-vector-illustration.jpg",
-      "description": "Pharmacy is the clinical health science that links medical science with chemistry and it is charged with the discovery, production, disposal, safe and effective use, and control of medications and drugs."
+      "description": "Pharmacy is the clinical health science that links medical science with chemistry and it is charged with the discovery, production, disposal, safe and effective use, and control of medications and drugs.
+      Pharmacy is the clinical health science that links medical science with chemistry."
     }
   ]
