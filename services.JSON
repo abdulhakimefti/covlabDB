@@ -1,38 +1,38 @@
 [
-    {
-      "id": 1,
-      "name": "Sergery",
-      "displayImg": "https://i.ibb.co/wK3Dd1w/Surgeons-performing-operation-in-operation-theater-of-hospital.jpg",
-      "description": "Surgery is an invasive technique with the fundamental principle of physical intervention on organs/organ systems/tissues for diagnostic or therapeutic reasons. As a general rule, a procedure is considered surgical when it involves cutting of a person's tissues or closure of a previously sustained wound."
-    },
-    {
-      "id": 2,
-      "name": "ICU",
-      "displayImg": "https://i.ibb.co/h1j1zvb/icu.jpg",
-      "description": "Intensive care refers to the specialised treatment given to patients who are acutely unwell and require critical medical care. An intensive care unit (ICU) provides the critical care and life support for acutely ill and injured patients."
-    },
-    {
-      "id": 3,
-      "name": "Emergency Depertment",
-      "displayImg": "https://i.ibb.co/0Fp22pL/emergency.jpg",
-      "description": "Emergency department: The department of a hospital responsible for the provision of medical and surgical care to patients arriving at the hospital in need of immediate care. Emergency department personnel may also respond to certain situations within the hospital such cardiac arrests."
-    },
-    {
-      "id": 4,
-      "name": "Ambulance",
-      "displayImg": "https://i.ibb.co/W5FzT2w/ambulance.jpg",
-      "description": "Ambulances are used to respond to medical emergencies by emergency medical services. ... They can rapidly transport paramedics and other first responders to the scene, carry equipment for administering emergency care and transport patients to hospital or other definitive care."
-    },
-    {
-      "id": 5,
-      "name": "Health Test",
-      "displayImg": "https://i.ibb.co/y4v3rcC/healthtest.jpg",
-      "description": "Medical tests can help detect a condition, determine a diagnosis, plan treatment, check to see if treatment is working, or monitor the condition over time. A doctor may order these tests as part of a routine checkup, to check for certain diseases and disorders, or to monitor your health."
-    },
-    {
-      "id": 6,
-      "name": "Pharmacy and Medicine",
-      "displayImg": "https://i.ibb.co/61KmT4Y/Medicines-background-with-colored-pills-tablets-and-capsules-vector-illustration.jpg",
-      "description": "Pharmacy is the clinical health science that links medical science with chemistry and it is charged with the discovery, production, disposal, safe and effective use, and control of medications and drugs."
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Sergery",
+    "displayImg": "https://i.ibb.co/wK3Dd1w/Surgeons-performing-operation-in-operation-theater-of-hospital.jpg",
+    "description": "Surgery is an invasive technique with the fundamental principle of physical intervention on organs/organ systems/tissues for diagnostic or therapeutic reasons. As a general rule, a procedure is considered surgical when it involves cutting of a person's tissues or closure of a previously sustained wound."
+  },
+  {
+    "id": 2,
+    "name": "ICU",
+    "displayImg": "https://i.ibb.co/h1j1zvb/icu.jpg",
+    "description": "Intensive care refers to the specialised treatment given to patients who are acutely unwell and require critical medical care. An intensive care unit (ICU) provides the critical care and life support for acutely ill and injured patients."
+  },
+  {
+    "id": 3,
+    "name": "Emergency Depertment",
+    "displayImg": "https://i.ibb.co/0Fp22pL/emergency.jpg",
+    "description": "Emergency department: The department of a hospital responsible for the provision of medical and surgical care to patients arriving at the hospital in need of immediate care. Emergency department personnel may also respond to certain situations within the hospital such cardiac arrests."
+  },
+  {
+    "id": 4,
+    "name": "Ambulance",
+    "displayImg": "https://i.ibb.co/W5FzT2w/ambulance.jpg",
+    "description": "Ambulances are used to respond to medical emergencies by emergency medical services. ... They can rapidly transport paramedics and other first responders to the scene, carry equipment for administering emergency care and transport patients to hospital or other definitive care."
+  },
+  {
+    "id": 5,
+    "name": "Health Test",
+    "displayImg": "https://i.ibb.co/y4v3rcC/healthtest.jpg",
+    "description": "Medical tests can help detect a condition, determine a diagnosis, plan treatment, check to see if treatment is working, or monitor the condition over time. A doctor may order these tests as part of a routine checkup, to check for certain diseases and disorders, or to monitor your health."
+  },
+  {
+    "id": 6,
+    "name": "Pharmacy and Medicine",
+    "displayImg": "https://i.ibb.co/61KmT4Y/Medicines-background-with-colored-pills-tablets-and-capsules-vector-illustration.jpg",
+    "description": "Pharmacy is the clinical health science that links medical science with chemistry and it is charged with the discovery, production, disposal, safe and effective use, and control of medications and drugs."
+  }
+]
